@@ -1,4 +1,4 @@
-# git 練習 kijima
+# git練習 kame
 
 ## test1
 
